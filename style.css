@@ -1,0 +1,21 @@
+
+
+body { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	font-family: Times New Roman;
+
+	color: white;
+
+
+}
+
+.btn{
+	border-radius: 350px;
+}
